@@ -9,4 +9,4 @@ Small 'rpg' i guess where you can walk around, equip items and... well that's it
  * Leee epic
 
 ## Screenshots
-![ddd](https://github.com/KPrzeczek/AsciiLand-C/blob/master/asc_1.png "S1")
+![](https://github.com/KPrzeczek/AsciiLand-C/blob/master/asci_1.png "S1")
