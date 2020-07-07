@@ -7,3 +7,10 @@ Small 'rpg' i guess where you can walk around, equip items and... well that's it
  * Magenta blocks will take you to the next map, to make a new map it's as simple as making a new map and setting its name to some coordinates that the magenta 'arrows' can latch onto
  * Crappy ECS
  * Leee epic
+
+## Screenshots
+![1](https://github.com/KPrzeczek/AsciiLand-C/blob/master/asc_1.png "S1")
+![2](https://github.com/KPrzeczek/AsciiLand-C/blob/master/asc_2.png "S2")
+![3](https://github.com/KPrzeczek/AsciiLand-C/blob/master/asc_3.png "S3")
+![4](https://github.com/KPrzeczek/AsciiLand-C/blob/master/asc_4.png "S4")
+![5](https://github.com/KPrzeczek/AsciiLand-C/blob/master/asc_5.png "S5")
