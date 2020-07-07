@@ -10,3 +10,7 @@ Small 'rpg' i guess where you can walk around, equip items and... well that's it
 
 ## Screenshots
 ![](https://github.com/KPrzeczek/AsciiLand-C/blob/master/asci_1.png "S1")
+![](https://github.com/KPrzeczek/AsciiLand-C/blob/master/asc_2.png "S2")
+![](https://github.com/KPrzeczek/AsciiLand-C/blob/master/asc_3.png "S3")
+![](https://github.com/KPrzeczek/AsciiLand-C/blob/master/asc_4.png "S4")
+![](https://github.com/KPrzeczek/AsciiLand-C/blob/master/asc_5.png "S5")
